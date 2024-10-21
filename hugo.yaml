@@ -42,7 +42,7 @@ params:
   socialIcons:
     - name: email
       title: Here can you contact me!
-      url: "/about"
+      url: "/website/about"
       #    - name: matrix
       #title: Here can you contact me!
       #url: ""
