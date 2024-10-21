@@ -1,4 +1,4 @@
-baseURL: 'https://mitgitumgekippt.github.com/'
+baseURL: 'https://mitgitumgekippt.github.com/website/'
 languageCode: 'en-us'
 title: 'Moritz M.'
 theme: 'PaperMod'
@@ -23,7 +23,7 @@ params:
   homeInfoParams:
     Title: "Hi there 👋"
     Content: >
-      - I am Moritz and welcome to my yet another tech-blog! In the next few weeks you will find some articles, mainly about cybersecurity and the open source world! The first one will either be a small CTF write-up of a saarCTF challange I wrote (of course after the event) or  a little rant about note taking applications. I hope you have as much fun as I have!
+      - I am Moritz and welcome to my yet another tech-blog! In the next few weeks, you will find some articles, mainly about cybersecurity and the open-source world! The first one will either be a small CTF write-up of a saarCTF challenge I wrote (of course after the event) or  a little rant about note-taking applications. I hope you have as much fun as I have!
 
 
   # Additional homepage parameters
@@ -51,7 +51,7 @@ params:
       url: "https://github.com/mitgitumgekippt"
     - name: LinkedIn
       title: Check out where I try to be professional
-      url: "https://www.linkedin.com/in/moritz-mander"
+      url: "https://www.linkedin.com/in/moritz-mander-82577520b/"
     - name: gitlab
       title: View Issues on Gitlab
       url: "https://gitlab.com/mitgitumgekippt"
