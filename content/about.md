@@ -1,4 +1,5 @@
 ---
+baseURL: 'https://mitgitumgekippt.github.com/website/'
 title: About
 ---
 
