@@ -1,7 +1,6 @@
-+++
-menus = 'main'
-title = 'About'
-+++
+---
+title: About
+---
 
 
 ### Who is this?

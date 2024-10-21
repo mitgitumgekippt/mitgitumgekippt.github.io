@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Moritz M.</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Moritz M.</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;who-is-this&#34;&gt;Who is this?&lt;/h3&gt;
+&lt;p&gt;I am Moritz and I like tech. Currently I am mostly working on cyber security topics (shh, between us: it will be topic in the first post&amp;hellip;), but I also did some stuff with microelectrocis (Arduino and ESP8266). I studied CS @ Saarland University and I am currently open for work!&lt;/p&gt;
+&lt;p&gt;When I not on the PC, then I am running trails or I debate in a debating club!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
