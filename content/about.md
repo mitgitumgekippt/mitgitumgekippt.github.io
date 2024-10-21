@@ -1,5 +1,4 @@
 ---
-baseURL: 'https://mitgitumgekippt.github.com/website/'
 title: About
 ---
 
@@ -12,4 +11,4 @@ When I not on the PC, then I am running trails or I debate in a debating club!
 ### Contact
 
 I am reachable via `hier_ist_moritz [at] t-online.de`. 
-Of course I also have a [GPG Key](/moritzGPGpublic.asc)!
+Of course I also have a [GPG Key](/website/moritzGPGpublic.asc)!
