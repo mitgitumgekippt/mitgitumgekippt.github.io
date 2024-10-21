@@ -2,6 +2,17 @@ baseURL: 'https://mitgitumgekippt.github.com/'
 languageCode: 'en-us'
 title: 'Moritz M.'
 theme: 'PaperMod'
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 100
+    - name: Search
+      url: search/
+      weight: 10
+    - name: About me
+      url: about/
+      weight: 5
 
 enableRobotsTXT: false
 enableEmoji: true
@@ -10,15 +21,10 @@ enableEmoji: true
 
 params:
   homeInfoParams:
-    Title: "PaperMod's Demo"
+    Title: "Hi there 👋"
     Content: >
-      👋 Welcome to demo page of Hugo's theme PaperMod!
+      - I am Moritz and welcome to my yet another tech-blog! In the next few weeks you will find some articles, mainly about cybersecurity and the open source world! The first one will either be a small CTF write-up of a saarCTF challange I wrote (of course after the event) or  a little rant about note taking applications. I hope you have as much fun as I have!
 
-      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media.
-
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
 
   # Additional homepage parameters
   #images: ["images/papermod-cover.png"]
@@ -34,16 +40,19 @@ params:
   ShowToc: false
 
   socialIcons:
+    - name: email
+      title: Here can you contact me!
+      url: "/about"
+      #    - name: matrix
+      #title: Here can you contact me!
+      #url: ""
     - name: github
       title: View Source on Github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
-    - name: Discord
-      title: Join discord community
-      url: "https://discord.gg/ahpmTvhVmp"
-    - name: X
-      title: Share PaperMod on X/Twitter
-      url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/adityatelange"
+      url: "https://github.com/mitgitumgekippt"
+    - name: LinkedIn
+      title: Check out where I try to be professional
+      url: "https://www.linkedin.com/in/moritz-mander"
+    - name: gitlab
+      title: View Issues on Gitlab
+      url: "https://gitlab.com/mitgitumgekippt"
 
