@@ -11,4 +11,4 @@ When I not on the PC, then I am running trails, prepare for a marathon or I deba
 ### Contact
 
 I am reachable via `hier_ist_moritz [at] t-online.de`. 
-Of course I also have a [GPG Key](/website/moritzGPGpublic.asc)!
+Of course I also have a [GPG Key](/moritzGPGpublic.asc)!
