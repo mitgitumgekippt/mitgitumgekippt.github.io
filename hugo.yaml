@@ -1,7 +1,7 @@
-baseURL: 'https://mitgitumgekippt.github.com/website/'
-languageCode: 'en-us'
-title: 'Moritz M.'
-theme: 'PaperMod'
+baseURL: "https://mitgitumgekippt.github.com/"
+languageCode: "en-us"
+title: "Moritz M."
+theme: "PaperMod"
 menu:
   main:
     - name: Archive
@@ -17,14 +17,11 @@ menu:
 enableRobotsTXT: false
 enableEmoji: true
 
-
-
 params:
   homeInfoParams:
     Title: "Hi there 👋"
     Content: >
       - I am Moritz and welcome to yet another tech blog! In the next few weeks, you will find some articles: the first one will either be about ways to make rust unsafe or a little rant about note-taking applications...
-
 
   # Additional homepage parameters
   #images: ["images/papermod-cover.png"]
@@ -55,4 +52,3 @@ params:
     - name: gitlab
       title: View Issues on Gitlab
       url: "https://gitlab.com/mitgitumgekippt"
-
