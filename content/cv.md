@@ -3,8 +3,8 @@ title: "CURRICULUM VITAE"
 hidemeta: true
 description: ""
 ---
-+ [Download CV](/CVen.pdf)
-<!--- + [Download Resume](/ResumeEN.pdf) --->
+<!--- + [Download CV](/CVen.pdf)
++ [Download Resume](/ResumeEN.pdf) --->
 
 ##### WORK EXPERIENCE
 + *Working student* in System Administration, Faculty for Mathematics and Informatics, 2021-2023
