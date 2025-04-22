@@ -10,7 +10,7 @@ menu:
     - name: Search
       url: search/
       weight: 10
-    - name: About me
+    - name: About_&_Impressum
       url: about/
       weight: 5
     - name: CV
