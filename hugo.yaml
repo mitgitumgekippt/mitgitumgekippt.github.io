@@ -24,7 +24,7 @@ params:
   homeInfoParams:
     Title: "Hi there 👋"
     Content: >
-      - Hi, I'm Moritz—welcome to yet another tech blog! I'm already working on the first article. The only problem is that I've been automating a task over several days that would have only taken minutes to complete manually...
+      - Hi, I'm Moritz - welcome to yet another tech blog! I'm already working on the first article. The only problem is that I've been automating a task over several days that would have only taken minutes to complete manually...
 
   # Additional homepage parameters
   #images: ["images/papermod-cover.png"]
