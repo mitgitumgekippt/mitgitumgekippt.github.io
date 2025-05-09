@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Moritz M.</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Moritz M.</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/website/</guid>
+      <description>&lt;p&gt;Sorry, it seems like HUGO did not redirect you to the real &lt;strong&gt;&lt;a href=&#34;https://mitgitumgekippt.github.io&#34;&gt;HOMEPAGE&lt;/a&gt;&lt;/strong&gt;. I am aware
+of this issue and I am already working on a fix.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;who-is-this&#34;&gt;Who is this?&lt;/h3&gt;
+&lt;p&gt;I am Moritz, 25 years old and I like to do stuff with tech. It could be anything: fiddling around with arduinos, doing some CTFs or just automating a task in 4h, which otherwise only would take minutes. Currently I am travelling through east-asia and figuring out what my first blog post will be about. I studied CS @ Saarland University and I am currently open for work!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CURRICULUM VITAE</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h5 id=&#34;work-experience&#34;&gt;WORK EXPERIENCE&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Working student&lt;/em&gt; in System Administration, Faculty for Mathematics and Informatics, 2021-2023&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Service Technician&lt;/em&gt;, IT-Haus GmbH, 2019-2020, 2021&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;education&#34;&gt;EDUCATION&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;B.A.&lt;/em&gt;, Computer Science, Saarland University, 2021-2024&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;studies&lt;/em&gt;, Business Informatics, Saarland University, 2020-2021&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;skills&#34;&gt;SKILLS&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Programming Languages&lt;/em&gt;: worked with most common (like Python, Go, Rust, C, Java), quick to adapt to new languages and frameworks as needed&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Languages&lt;/em&gt;: German (native), English (Fluent), French (B1), Norwegian (A2).&lt;/li&gt;
+&lt;li&gt;can insert a USB drive on the
+first try&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>now</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/now/</guid>
+      <description>&lt;h3 id=&#34;what-is-a-now-page&#34;&gt;What is a /now page?&lt;/h3&gt;
+&lt;p&gt;The &amp;lsquo;/now&amp;rsquo;-page is about what a person is focused on and working on at the moment. Imagine, what you would try to say to friend, which you haven&amp;rsquo;t seen for a year. In difference to social media updates or blog posts, the &amp;lsquo;/now&amp;rsquo;-page is more focused on the big picture instead of selected recent events. It also stays in contrast to an &amp;lsquo;/about&amp;rsquo;-page, which is a general introduction and the background of a person. If you want to know more about this, check out &lt;a href=&#34;https://nownownow.com/about&#34;&gt;nownownow.com/about&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
