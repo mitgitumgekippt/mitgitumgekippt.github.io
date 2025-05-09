@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Moritz M.</title>
-    <link>http://localhost:1313/</link>
+    <link>https://mitgitumgekippt.github.com/</link>
     <description>Recent content on Moritz M.</description>
     <generator>Hugo -- 0.147.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mitgitumgekippt.github.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/website/</link>
+      <link>https://mitgitumgekippt.github.com/website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/</guid>
+      <guid>https://mitgitumgekippt.github.com/website/</guid>
       <description>&lt;p&gt;Sorry, it seems like HUGO did not redirect you to the real &lt;strong&gt;&lt;a href=&#34;https://mitgitumgekippt.github.io&#34;&gt;HOMEPAGE&lt;/a&gt;&lt;/strong&gt;. I am aware
 of this issue and I am already working on a fix.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://mitgitumgekippt.github.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://mitgitumgekippt.github.com/about/</guid>
       <description>&lt;h3 id=&#34;who-is-this&#34;&gt;Who is this?&lt;/h3&gt;
 &lt;p&gt;I am Moritz, 25 years old and I like to do stuff with tech. It could be anything: fiddling around with arduinos, doing some CTFs or just automating a task in 4h, which otherwise only would take minutes. Currently I am travelling through east-asia and figuring out what my first blog post will be about. I studied CS @ Saarland University and I am currently open for work!&lt;/p&gt;</description>
     </item>
     <item>
       <title>CURRICULUM VITAE</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://mitgitumgekippt.github.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>https://mitgitumgekippt.github.com/cv/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/CVen.pdf&#34;&gt;Download CV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mitgitumgekippt.github.com/CVen.pdf&#34;&gt;Download CV&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Highly motivated Computer Science student (B.Sc.) with a growing interest in IT security.  Experience gained through internships in system administration and consulting, complemented by active participation in cybersecurity challenges (CTF) and a debate club.  Seeking opportunities to apply and expand my skills in a challenging and dynamic environment.&lt;/p&gt;
@@ -60,9 +60,9 @@ first try&lt;/li&gt;
     </item>
     <item>
       <title>now</title>
-      <link>http://localhost:1313/now/</link>
+      <link>https://mitgitumgekippt.github.com/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/now/</guid>
+      <guid>https://mitgitumgekippt.github.com/now/</guid>
       <description>&lt;h3 id=&#34;what-is-a-now-page&#34;&gt;What is a /now page?&lt;/h3&gt;
 &lt;p&gt;The &amp;lsquo;/now&amp;rsquo;-page is about what a person is focused on and working on at the moment. Imagine, what you would try to say to friend, which you haven&amp;rsquo;t seen for a year. In difference to social media updates or blog posts, the &amp;lsquo;/now&amp;rsquo;-page is more focused on the big picture instead of selected recent events. It also stays in contrast to an &amp;lsquo;/about&amp;rsquo;-page, which is a general introduction and the background of a person. If you want to know more about this, check out &lt;a href=&#34;https://nownownow.com/about&#34;&gt;nownownow.com/about&lt;/a&gt;.&lt;/p&gt;</description>
     </item>

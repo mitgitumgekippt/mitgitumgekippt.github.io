@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/website/</loc>
+    <loc>https://mitgitumgekippt.github.com/website/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://mitgitumgekippt.github.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://mitgitumgekippt.github.com/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mitgitumgekippt.github.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>https://mitgitumgekippt.github.com/cv/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mitgitumgekippt.github.com/</loc>
   </url><url>
-    <loc>http://localhost:1313/now/</loc>
+    <loc>https://mitgitumgekippt.github.com/now/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://mitgitumgekippt.github.com/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mitgitumgekippt.github.com/tags/</loc>
   </url>
 </urlset>
