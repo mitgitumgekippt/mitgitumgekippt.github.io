@@ -20,3 +20,9 @@ description: ""
 + can insert a USB drive on the
 first try
 <!--- + Algorithms:--->
+
+##### Core Competencies
++ stress resistent
++ *Communication* and *Collaboration*: Able to explain complex concepts to (non-technical) stakeholders. I learned this ability espacially during my time in the debating club.
++ *Analytical Thinking*: Able to identify patterns and anomalies in system behavior or logs.
++ *Able to identify patterns and anomalies in system behavior or logs.

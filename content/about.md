@@ -12,5 +12,5 @@ When I not on the PC, then I am running trails, prepare for a marathon or I deba
 Responsible for the content of this website is\
 `Moritz Mander`\
 reachable via \
-`hier hier_ist_moritz [at] t-online.de`\
+`hier_ist_moritz [at] t-online.de`\
 Of course I also have a [GPG Key](/moritzGPGpublic.asc)!
