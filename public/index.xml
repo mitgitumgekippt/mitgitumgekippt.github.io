@@ -28,7 +28,12 @@ of this issue and I am already working on a fix.&lt;/p&gt;</description>
       <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cv/</guid>
-      <description>&lt;h5 id=&#34;work-experience&#34;&gt;WORK EXPERIENCE&lt;/h5&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/CVen.pdf&#34;&gt;Download CV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Highly motivated Computer Science student (B.Sc.) with a growing interest in IT security.  Experience gained through internships in system administration and consulting, complemented by active participation in cybersecurity challenges (CTF) and a debate club.  Seeking opportunities to apply and expand my skills in a challenging and dynamic environment.&lt;/p&gt;
+&lt;h5 id=&#34;work-experience&#34;&gt;WORK EXPERIENCE&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Working student&lt;/em&gt; in System Administration, Faculty for Mathematics and Informatics, 2021-2023&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Service Technician&lt;/em&gt;, IT-Haus GmbH, 2019-2020, 2021&lt;/li&gt;
@@ -44,6 +49,13 @@ of this issue and I am already working on a fix.&lt;/p&gt;</description>
 &lt;li&gt;&lt;em&gt;Languages&lt;/em&gt;: German (native), English (Fluent), French (B1), Norwegian (A2).&lt;/li&gt;
 &lt;li&gt;can insert a USB drive on the
 first try&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;core-competencies&#34;&gt;CORE COMPETENCIES&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Communication&lt;/em&gt; and &lt;em&gt;Collaboration&lt;/em&gt;: Able to explain complex concepts to (non-technical) stakeholders. I learned this ability espacially during my time in the debating club.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Analytical Thinking&lt;/em&gt;: Able to identify patterns and anomalies in system behavior or logs.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Adaptability&lt;/em&gt; and &lt;em&gt;Curiosity&lt;/em&gt;: It is easy for me to dig myself into new environments and technologies. Constantly exploring new vulnerabilities and tools.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Stress Resistence&lt;/em&gt;: Developed strong stress management skills and resilience through a farming background, where long hours, unexpected challenges, and time-critical decisions were part of daily life.&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>

@@ -3,8 +3,10 @@ title: "CURRICULUM VITAE"
 hidemeta: true
 description: ""
 ---
-<!--- + [Download CV](/CVen.pdf)
-+ [Download Resume](/ResumeEN.pdf) --->
++ [Download CV](/CVen.pdf)
+ <!---+ [Download Resume](/ResumeEN.pdf) --->
+
+Highly motivated Computer Science student (B.Sc.) with a growing interest in IT security.  Experience gained through internships in system administration and consulting, complemented by active participation in cybersecurity challenges (CTF) and a debate club.  Seeking opportunities to apply and expand my skills in a challenging and dynamic environment.
 
 ##### WORK EXPERIENCE
 + *Working student* in System Administration, Faculty for Mathematics and Informatics, 2021-2023
@@ -21,8 +23,8 @@ description: ""
 first try
 <!--- + Algorithms:--->
 
-##### Core Competencies
-+ stress resistent
+##### CORE COMPETENCIES
 + *Communication* and *Collaboration*: Able to explain complex concepts to (non-technical) stakeholders. I learned this ability espacially during my time in the debating club.
 + *Analytical Thinking*: Able to identify patterns and anomalies in system behavior or logs.
-+ *Able to identify patterns and anomalies in system behavior or logs.
++ *Adaptability* and *Curiosity*: It is easy for me to dig myself into new environments and technologies. Constantly exploring new vulnerabilities and tools.
++ *Stress Resistence*: Developed strong stress management skills and resilience through a farming background, where long hours, unexpected challenges, and time-critical decisions were part of daily life.
