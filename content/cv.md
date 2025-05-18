@@ -15,7 +15,7 @@ Highly motivated Computer Science student (B.Sc.) with a growing interest in IT 
 
 ##### EDUCATION
 + *B.A.*, Computer Science, Saarland University, 2021-2024
-+ *studies*, Business Informatics, Saarland University, 2020-2021
++ before switching: studies in Business Informatics, Saarland University, 2020-2021
 
 ##### SKILLS
 + *Programming Languages*: worked with most common (like Python, Go, Rust, C, Java), quick to adapt to new languages and frameworks as needed
