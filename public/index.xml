@@ -16,6 +16,15 @@
 of this issue and I am already working on a fix.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>/now</title>
+      <link>https://mitgitumgekippt.github.com/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mitgitumgekippt.github.com/now/</guid>
+      <description>&lt;h2 id=&#34;what-is-a-now-page&#34;&gt;What is a /now page?&lt;/h2&gt;
+&lt;p&gt;A &lt;code&gt;/now&lt;/code&gt; page is about what someone is currently focused on and working toward. Think of it like what you&amp;rsquo;d say to a friend you haven’t seen in a year — a snapshot of what matters most right now.&lt;/p&gt;
+&lt;p&gt;Unlike social media updates or blog posts, a &lt;code&gt;/now&lt;/code&gt; page focuses on the bigger picture rather than day-to-day highlights. It also contrasts with an &lt;code&gt;/about&lt;/code&gt; page, which is more static and background-focused. If you want to learn more, check out &lt;a href=&#34;https://nownownow.com/about&#34;&gt;nownownow.com/about&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About</title>
       <link>https://mitgitumgekippt.github.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -60,14 +69,6 @@ first try&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Adaptability&lt;/em&gt; and &lt;em&gt;Curiosity&lt;/em&gt;: It is easy for me to dig myself into new environments and technologies. Constantly exploring new vulnerabilities and tools.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Stress Resistence&lt;/em&gt;: Developed strong stress management skills and resilience through a farming background, where long hours, unexpected challenges, and time-critical decisions were part of daily life.&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>now</title>
-      <link>https://mitgitumgekippt.github.com/now/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mitgitumgekippt.github.com/now/</guid>
-      <description>&lt;h3 id=&#34;what-is-a-now-page&#34;&gt;What is a /now page?&lt;/h3&gt;
-&lt;p&gt;The &amp;lsquo;/now&amp;rsquo;-page is about what a person is focused on and working on at the moment. Imagine, what you would try to say to friend, which you haven&amp;rsquo;t seen for a year. In difference to social media updates or blog posts, the &amp;lsquo;/now&amp;rsquo;-page is more focused on the big picture instead of selected recent events. It also stays in contrast to an &amp;lsquo;/about&amp;rsquo;-page, which is a general introduction and the background of a person. If you want to know more about this, check out &lt;a href=&#34;https://nownownow.com/about&#34;&gt;nownownow.com/about&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
