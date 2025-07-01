@@ -2,43 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Moritz M.</title>
-    <link>http://localhost:1313/</link>
+    <link>https://mitgitumgekippt.github.com/</link>
     <description>Recent content on Moritz M.</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/website/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/</guid>
-      <description>&lt;p&gt;Sorry, it seems like HUGO did not redirect you to the real &lt;strong&gt;&lt;a href=&#34;https://mitgitumgekippt.github.io&#34;&gt;HOMEPAGE&lt;/a&gt;&lt;/strong&gt;. I am aware
-of this issue and I am already working on a fix.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://mitgitumgekippt.github.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>/now</title>
-      <link>http://localhost:1313/now/</link>
+      <link>https://mitgitumgekippt.github.com/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/now/</guid>
+      <guid>https://mitgitumgekippt.github.com/now/</guid>
       <description>&lt;h2 id=&#34;what-is-a-now-page&#34;&gt;What is a /now page?&lt;/h2&gt;
 &lt;p&gt;A &lt;code&gt;/now&lt;/code&gt; page is about what someone is currently focused on and working toward. Think of it like what you&amp;rsquo;d say to a friend you haven’t seen in a year — a snapshot of what matters most right now.&lt;/p&gt;
 &lt;p&gt;Unlike social media updates or blog posts, a &lt;code&gt;/now&lt;/code&gt; page focuses on the bigger picture rather than day-to-day highlights. It also contrasts with an &lt;code&gt;/about&lt;/code&gt; page, which is more static and background-focused. If you want to learn more, check out &lt;a href=&#34;https://nownownow.com/about&#34;&gt;nownownow.com/about&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://mitgitumgekippt.github.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://mitgitumgekippt.github.com/about/</guid>
       <description>&lt;h3 id=&#34;who-is-this&#34;&gt;Who is this?&lt;/h3&gt;
 &lt;p&gt;Take a generous scoop of tech enthusiasm, stir in a love for sports - especially running. Add a good pinch of curiosity for nearly everything. Mix well with lively debates, best served hot. Fold in some nerdy excitement and a splash of dry humor. Let it all simmer over a family background rich in wine. Grain in some CTFs. And there you have it: something that looks suspiciously like me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CURRICULUM VITAE</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://mitgitumgekippt.github.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>https://mitgitumgekippt.github.com/cv/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/cvEN.pdf&#34;&gt;Download CV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mitgitumgekippt.github.com/cvEN.pdf&#34;&gt;Download CV&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
