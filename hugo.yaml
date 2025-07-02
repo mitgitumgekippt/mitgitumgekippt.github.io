@@ -55,6 +55,7 @@ params:
     - name: gitlab
       title: View Issues on Gitlab
       url: "https://gitlab.com/mitgitumgekippt"
+  description: "Hi, I'm Moritz - welcome to yet another tech blog! Here you can find my latest blog posts and what I have been up to!"
 
 markup:
   goldmark:
