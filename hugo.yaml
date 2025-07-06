@@ -62,3 +62,9 @@ markup:
     parser:
       attribute:
         block: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
