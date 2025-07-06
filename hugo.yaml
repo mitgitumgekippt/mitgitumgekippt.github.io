@@ -30,7 +30,7 @@ params:
   #images: ["images/papermod-cover.png"]
 
   ShowShareButtons: false
-  ShowReadingTime: false
+  ShowReadingTime: true
   ShowPostNavLinks: false
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
