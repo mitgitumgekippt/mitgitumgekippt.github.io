@@ -2,66 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Moritz M.</title>
-    <link>http://localhost:1313/</link>
+    <link>https://mitgitumgekippt.github.com/</link>
     <description>Recent content on Moritz M.</description>
-    <generator>Hugo -- 0.147.9</generator>
+    <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mitgitumgekippt.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Bank Keeps On Undermining Anti-Phishing Education</title>
+      <link>https://mitgitumgekippt.github.com/blog/my_bank_keeps_on_undermining_anti-phishing_education/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mitgitumgekippt.github.com/blog/my_bank_keeps_on_undermining_anti-phishing_education/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;TLDR: my bank sent out emails with websites which looked a lot like phishing mails, so much so that this similarity could potentially be used against them legally by potential phishing victims&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ndash; Discussion at hackernews (soon)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;chapter-1-youve-got-mail&#34;&gt;Chapter 1: You&amp;rsquo;ve got mail&lt;/h2&gt;
+&lt;p&gt;As I was writing my first post some weeks ago, I got an email from my bank in my inbox:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Screenshot of the email I received. The mail is displayed in a thunderbird environment. The original content of the mail is: Sehr geehrter …, Die großen Wero-Win-Wochen gehen los! Machen Sie jetzt mit und sichern Sie sich jede Woche Ihre Chance auf 7 x je 1000 Euro.\u2028\u2028Mit Wert können Sie in unter 10 Sekunden Geld von Konto zu Konto senden. Ss einfach, schnell und sicher. Und das Beste: Wenn Sie sich jetzt einmalig für das Gewinnspiel registrieren, nehmen Sie bis yum 2. September automatisch am Gewinnspiel teil. Mit wöchentlicher Gewinnchance! Jetzt mitmachen! Jede Woche 7x je 1000 Euro Gewinnen! So geht’s:&#34; loading=&#34;lazy&#34; src=&#34;https://mitgitumgekippt.github.com/blog/my_bank_keeps_on_undermining_anti-phishing_education/screenshot_email.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>/now</title>
-      <link>http://localhost:1313/now/</link>
+      <link>https://mitgitumgekippt.github.com/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/now/</guid>
+      <guid>https://mitgitumgekippt.github.com/now/</guid>
       <description>&lt;h2 id=&#34;what-is-a-now-page&#34;&gt;What is a /now page?&lt;/h2&gt;
 &lt;p&gt;A &lt;code&gt;/now&lt;/code&gt; page is about what someone is currently focused on and working toward. Think of it like what you&amp;rsquo;d say to a friend you haven’t seen in a year — a snapshot of what matters most right now.&lt;/p&gt;
 &lt;p&gt;Unlike social media updates or blog posts, a &lt;code&gt;/now&lt;/code&gt; page focuses on the bigger picture rather than day-to-day highlights. It also contrasts with an &lt;code&gt;/about&lt;/code&gt; page, which is more static and background-focused. If you want to learn more, check out &lt;a href=&#34;https://nownownow.com/about&#34;&gt;nownownow.com/about&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://mitgitumgekippt.github.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://mitgitumgekippt.github.com/about/</guid>
       <description>&lt;h3 id=&#34;who-is-this&#34;&gt;Who is this?&lt;/h3&gt;
 &lt;p&gt;Take a generous scoop of tech enthusiasm, stir in a love for sports - especially running. Add a good pinch of curiosity for nearly everything. Mix well with lively debates, best served hot. Fold in some nerdy excitement and a splash of dry humor. Let it all simmer over a family background rich in wine. Grain in some CTFs. And there you have it: something that looks suspiciously like me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CURRICULUM VITAE</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://mitgitumgekippt.github.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>https://mitgitumgekippt.github.com/cv/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/cvEN.pdf&#34;&gt;Download CV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a
+    class=&#34;hugo-shortcodes-download&#34;
+    href=&#34;https://mitgitumgekippt.github.com/cvEN.pdf&#34;
+    download=&#34;&#34;
+    data-umami-event=&#34;download CV&#34;
+    data-umami-file=&#34;/cvEN.pdf&#34;
+&gt;
+    Download CV as PDF.&lt;/a
+&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
 &lt;li&gt;contact me via eMail: &lt;a href=&#34;mailto:hier_ist_moritz%5Bat%5Dt-online.de&#34;&gt;hier_ist_moritz [at] t-online.de&lt;/a&gt;!&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Highly motivated Computer Science student (B.Sc.) with a growing interest in IT security.  Experience gained through internships in system administration and consulting, complemented by active participation in cybersecurity challenges (CTF) and a debate club.  Seeking opportunities to apply and expand my skills in a challenging and dynamic environment.&lt;/p&gt;
-&lt;h5 id=&#34;work-experience&#34;&gt;WORK EXPERIENCE&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Working student&lt;/em&gt; in System Administration, Faculty for Mathematics and Informatics, 2021-2023&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Service Technician&lt;/em&gt;, IT-Haus GmbH, 2019-2020, 2021&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;education&#34;&gt;EDUCATION&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;B.A.&lt;/em&gt;, Computer Science, Saarland University, 2021-2024&lt;/li&gt;
-&lt;li&gt;before switching: studies in Business Informatics, Saarland University, 2020-2021&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;skills&#34;&gt;SKILLS&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Programming Languages&lt;/em&gt;: worked with most common (like Python, Go, Rust, C, Java), quick to adapt to new languages and frameworks as needed&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Languages&lt;/em&gt;: German (native), English (Fluent), French (B1), Norwegian (A2).&lt;/li&gt;
-&lt;li&gt;can insert a USB drive on the
-first try&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;core-competencies&#34;&gt;CORE COMPETENCIES&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Communication&lt;/em&gt; and &lt;em&gt;Collaboration&lt;/em&gt;: Able to explain complex concepts to (non-technical) stakeholders. I learned this ability espacially during my time in the debating club.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Analytical Thinking&lt;/em&gt;: Able to identify patterns and anomalies in system behavior or logs.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Adaptability&lt;/em&gt; and &lt;em&gt;Curiosity&lt;/em&gt;: It is easy for me to dig myself into new environments and technologies. Constantly exploring new vulnerabilities and tools.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Stress Resistence&lt;/em&gt;: Developed strong stress management skills and resilience through a farming background, where long hours, unexpected challenges, and time-critical decisions were part of daily life.&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://mitgitumgekippt.github.com/cv-pdf/&#34;&gt;Here my CV as PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Highly motivated Computer Science student (B.Sc.) with a growing interest in IT security.  Experience gained through internships in system administration and consulting, complemented by active participation in cybersecurity challenges (CTF) and a debate club.  Seeking opportunities to apply and expand my skills in a challenging and dynamic environment.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
