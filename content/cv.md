@@ -11,7 +11,6 @@ Download CV as PDF.
 + contact me via eMail: [hier_ist_moritz [at] t-online.de](mailto:hier_ist_moritz[at]t-online.de)!
 
 ---
-[Here my CV as PDF](/cv-pdf/)
 
 Highly motivated Computer Science student (B.Sc.) with a growing interest in IT security.  Experience gained through internships in system administration and consulting, complemented by active participation in cybersecurity challenges (CTF) and a debate club.  Seeking opportunities to apply and expand my skills in a challenging and dynamic environment.
 
