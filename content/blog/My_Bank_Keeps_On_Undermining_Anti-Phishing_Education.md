@@ -19,7 +19,7 @@ tags:
 
 *TLDR: my bank sent out emails with websites which looked a lot like phishing mails, so much so that this similarity could potentially be used against them legally by potential phishing victims*
 
-*-- Discussion at hackernews (soon)*
+*Discussion at hackernews: https://news.ycombinator.com/item?id=44592377*
 
 ---
 
@@ -213,7 +213,9 @@ How should a single person proceed in this matter? The issue is systemic, and th
 
 ---
 
-*Discussion at hackernews (soon)*
+*Edit: Added link to the hackernews discussion*
+
+*Discussion at hackernews: https://news.ycombinator.com/item?id=44592377*
 
 ---
 
