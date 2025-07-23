@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Problem on Moritz M.</title>
-    <link>http://localhost:1313/tags/problem/</link>
+    <link>https://mitgitumgekippt.github.com/tags/problem/</link>
     <description>Recent content in Problem on Moritz M.</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/problem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mitgitumgekippt.github.com/tags/problem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Bank Keeps On Undermining Anti-Phishing Education</title>
-      <link>http://localhost:1313/blog/my_bank_keeps_on_undermining_anti-phishing_education/</link>
+      <link>https://mitgitumgekippt.github.com/blog/my_bank_keeps_on_undermining_anti-phishing_education/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/my_bank_keeps_on_undermining_anti-phishing_education/</guid>
+      <guid>https://mitgitumgekippt.github.com/blog/my_bank_keeps_on_undermining_anti-phishing_education/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;&lt;em&gt;TLDR: my bank sent out emails with websites which looked a lot like phishing mails, so much so that this similarity could potentially be used against them legally by potential phishing victims&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Discussion at hackernews: &lt;a href=&#34;https://news.ycombinator.com/item?id=44592377&#34;&gt;https://news.ycombinator.com/item?id=44592377&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;chapter-1-youve-got-mail&#34;&gt;Chapter 1: You&amp;rsquo;ve got mail&lt;/h2&gt;
 &lt;p&gt;As I was writing my first post some weeks ago, I got an email from my bank in my inbox:&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Screenshot of the email I received. The mail is displayed in a thunderbird environment. The original content of the mail is: Sehr geehrter …, Die großen Wero-Win-Wochen gehen los! Machen Sie jetzt mit und sichern Sie sich jede Woche Ihre Chance auf 7 x je 1000 Euro.\u2028\u2028Mit Wert können Sie in unter 10 Sekunden Geld von Konto zu Konto senden. Ss einfach, schnell und sicher. Und das Beste: Wenn Sie sich jetzt einmalig für das Gewinnspiel registrieren, nehmen Sie bis yum 2. September automatisch am Gewinnspiel teil. Mit wöchentlicher Gewinnchance! Jetzt mitmachen! Jede Woche 7x je 1000 Euro Gewinnen! So geht’s:&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/my_bank_keeps_on_undermining_anti-phishing_education/screenshot_email.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Screenshot of the email I received. The mail is displayed in a thunderbird environment. The original content of the mail is: Sehr geehrter …, Die großen Wero-Win-Wochen gehen los! Machen Sie jetzt mit und sichern Sie sich jede Woche Ihre Chance auf 7 x je 1000 Euro.\u2028\u2028Mit Wert können Sie in unter 10 Sekunden Geld von Konto zu Konto senden. Ss einfach, schnell und sicher. Und das Beste: Wenn Sie sich jetzt einmalig für das Gewinnspiel registrieren, nehmen Sie bis yum 2. September automatisch am Gewinnspiel teil. Mit wöchentlicher Gewinnchance! Jetzt mitmachen! Jede Woche 7x je 1000 Euro Gewinnen! So geht’s:&#34; loading=&#34;lazy&#34; src=&#34;https://mitgitumgekippt.github.com/blog/my_bank_keeps_on_undermining_anti-phishing_education/screenshot_email.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

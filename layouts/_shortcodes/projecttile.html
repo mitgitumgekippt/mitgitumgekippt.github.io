@@ -1,0 +1,61 @@
+<a href="{{ .Get "link" }}" target="_blank" rel="noopener noreferrer" class="tile-link" data-umami-event="CV click on {{ .Get "name" }}">
+<div class="tile">
+    <div class="icon">
+        <img src="{{ .Get "icon" }}" alt="Icon" />
+      </div>
+    <div class="text-content">
+        <div class="name">{{ .Get "name" }}</div>
+        <p class="description">{{ .Get "description" }}</p>
+        <p class="techstack">{{ .Get "techstack" }}</p>
+    </div>
+</div>
+</a>
+
+<style>
+    .tile {
+        display: flex;
+        align-items: flex-start;
+        border: 1px solid #ccc;
+        border-radius: 12px;
+        padding: 16px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        font-family: Arial, sans-serif;
+        background-color: #fff;
+    }
+
+    .icon {
+        width: 60px;
+        height: 60px;
+        background-color: #e0e0e0;
+        margin-right: 16px;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
+        font-size: 24px;
+        color: #555;
+    }
+
+    .text-content {
+        flex: 1;
+    }
+
+    .name {
+        font-size: 20px;
+        font-weight: bold;
+        text-decoration: underline;
+        margin: 0 0 8px 0;
+    }
+
+    .description {
+        margin: 0 0 4px 0;
+        color: #333;
+    }
+
+    .techstack {
+        font-style: italic;
+        color: #777;
+        margin: 0;
+    }
+</style>
