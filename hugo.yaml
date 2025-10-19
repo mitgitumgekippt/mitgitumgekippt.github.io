@@ -54,7 +54,9 @@ params:
       url: "https://de.linkedin.com/in/moritz-m-82577520b"
     - name: gitlab
       title: View Issues on Gitlab
-      url: "https://gitlab.com/mitgitumgekippt"
+    - name: IMdB
+      title: My movie industry involvment
+      url: "https://www.imdb.com/de/name/nm10628695/"
   description: "Hi, I'm Moritz - welcome to yet another tech blog! Here you can find my latest blog posts and what I have been up to!"
 
 markup:
