@@ -1,19 +1,19 @@
 baseURL: "https://mitgitumgekippt.github.com/"
 languageCode: "en-us"
 title: "Moritz M."
-theme: "PaperMod"
+theme: ["hugo-redirect", "PaperMod"]
 menu:
   main:
-    - name: Archive
+    - name: /blog
       url: archives
       weight: 100
-    - name: Search
-      url: search/
-      weight: 10
-    - name: About_&_Impressum
+    #    - name: /search
+    #      url: search/
+    #      weight: 10
+    - name: /about_/impressum
       url: about/
       weight: 5
-    - name: CV
+    - name: /cv
       url: cv/
       weight: 4
 
@@ -22,12 +22,21 @@ enableEmoji: true
 
 params:
   homeInfoParams:
-    Title: "Hi there 👋"
-    Content: >
-      - Hi, I'm Moritz - welcome to yet another tech blog! I'm already working on the first article. The only problem is that I've been automating a task over several days that would have only taken minutes to complete manually...
+  #  Title: "Hi there 👋"
+  #  Content: >
+  #    - Hi, I'm Moritz - welcome to yet another tech blog! I'm already working on the first article. The only problem is that I've been automating a task over several days that would have only taken minutes to complete manually...
 
   # Additional homepage parameters
-  #images: ["images/papermod-cover.png"]
+  #images: ["images/profilbild.jpg"]
+  profileMode:
+    enabled: true
+    title: "Gunn Tach! 👋"
+    subtitle: >
+      Hi, I'm Moritz - welcome to yet another tech blog! I'm a Master Student @ Saarland University and here I write about cysec-topics, technology (and hopefully soon climate research)!
+    imageUrl: "/profilbild.jpeg" # optional
+    imageTitle: "<title of image as alt>" # optional
+    #imageWidth: 120 # custom size
+    imageHeight: 190 # custom size
 
   ShowShareButtons: false
   ShowReadingTime: true
@@ -57,6 +66,8 @@ params:
     - name: IMdB
       title: My movie industry involvment
       url: "https://www.imdb.com/de/name/nm10628695/"
+    - name: rss
+      url: "/index.xml"
   description: "Hi, I'm Moritz - welcome to yet another tech blog! Here you can find my latest blog posts and what I have been up to!"
 
 markup:
