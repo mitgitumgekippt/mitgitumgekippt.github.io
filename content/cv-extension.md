@@ -7,7 +7,7 @@ description: ""
 ---
 <!---+ Download Button --->
 + {{< download url="/cvEN.pdf" >}}
-Download CV as PDF.
+Download Lebenslauf as PDF (english version is updated currently).
 {{< /download >}}
 
 <!---+ Kontaktmoeglichkeiten --->

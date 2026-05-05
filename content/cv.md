@@ -4,7 +4,7 @@ hidemeta: true
 description: ""
 ---
 + {{< download url="/cvEN.pdf" >}}
-Download CV as PDF.
+Download Lebenslauf as PDF (english version is updated currently).
 {{< /download >}}
  <!---+ + [Download CV](/cvEN.pdf) --->
  <!---+ [Download Resume](/ResumeEN.pdf) --->
