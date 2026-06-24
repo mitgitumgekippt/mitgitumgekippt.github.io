@@ -10,8 +10,11 @@ menu:
     #    - name: /search
     #      url: search/
     #      weight: 10
-    - name: /about_/impressum
+    - name: /about
       url: about/
+      weight: 5
+    - name: /impressum
+      url: impressum/
       weight: 5
     - name: /cv
       url: cv/

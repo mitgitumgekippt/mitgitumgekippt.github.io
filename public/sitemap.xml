@@ -125,6 +125,12 @@
   
   
   <url>
+    <loc>http://localhost:1313/impressum/</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:1313/archives/</loc>
   </url>
   
