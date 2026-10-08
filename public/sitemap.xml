@@ -83,6 +83,18 @@
   
   
   <url>
+    <loc>http://localhost:1313/fw/dc-saar/</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:1313/fw/fsr-info/</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:1313/fw/github/</loc>
   </url>
   
@@ -90,6 +102,12 @@
   
   <url>
     <loc>http://localhost:1313/fw/linkedin/</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:1313/fw/saarsec/</loc>
   </url>
   
   
